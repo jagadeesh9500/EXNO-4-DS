@@ -1,4 +1,6 @@
 # EXNO:4-DS
+## Name: jagadeesh P
+## Reg: 212223230083
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -24,6 +26,17 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![Screenshot 2025-04-23 161356](https://github.com/user-attachments/assets/23d8aee0-70c4-4d79-9d16-97ca3956dba0)
+![Screenshot 2025-04-23 161406](https://github.com/user-attachments/assets/237f43c4-ef89-444a-b971-ca7cdc8bf267)
+![Screenshot 2025-04-23 161432](https://github.com/user-attachments/assets/61db5262-a6eb-4ca4-abc7-7e1b803a8f82)
+![Screenshot 2025-04-23 161445](https://github.com/user-attachments/assets/faf386d7-19c7-43ab-af66-396a88a867c5)
+![Screenshot 2025-04-23 161453](https://github.com/user-attachments/assets/e2333994-84c3-418f-9a81-241a64e82f34)
+![Screenshot 2025-04-23 161501](https://github.com/user-attachments/assets/bd06f13f-6dd3-4388-9eb8-611223da0e50)
+![Screenshot 2025-04-23 161513](https://github.com/user-attachments/assets/14ce42dd-3000-4520-a66d-e10a32a08779)
+![Screenshot 2025-04-23 161524](https://github.com/user-attachments/assets/b1637eb6-9c09-40d8-9ada-cce184293ba5)
+
+
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus,The given data is read and performed Feature Scaling and Feature Selection process and saved the data to a file.
